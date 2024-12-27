@@ -15,4 +15,4 @@ This project illustrates the concepts of **ApplicationContext** and **Bean** in 
 ## **How to Run**  
 1. Clone this repository:  
    ```bash  
-   git clone <repository-url>  
+   git clone https://github.com/deepakmali-09/springboot-p02.git  
